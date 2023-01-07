@@ -93,7 +93,7 @@
     <Result :visible.sync="showResult"></Result>
 
     <span class="copy-right">
-      Copyright©wuyongyu13@gmail.com
+      Copyright©AtomEcho
     </span>
 
     <audio
